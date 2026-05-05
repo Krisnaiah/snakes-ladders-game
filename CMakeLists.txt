@@ -3,4 +3,4 @@ project(interview)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(interview source.cpp)
+add_executable(snakes-ladders-game source.cpp)
